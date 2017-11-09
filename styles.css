@@ -1,0 +1,34 @@
+p{
+    margin-right: 10%;
+    margin-left: 10%;
+    color: white;
+    background-color: black;
+    font-size: 40px;
+    opacity: .5;
+}
+
+article {
+    margin-left: 10%;
+    opacity: .9;
+}
+
+h1 {
+    font-family: Arial;
+    font-size: 100px;
+    color: white;
+    opacity: .7;
+    align: right;
+
+}
+
+header {
+    color: red;
+    font-size: 18px;
+    margin-left: 30%;
+}
+
+body {
+    background-image: url(https://i.imgur.com/mY93sgs.jpg);
+    background-repeat: repeat-y;
+    background-size: 100%;
+}
